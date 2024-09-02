@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/3a79776c-e5dd-48c3-8b84-6ec3eaf32d2f" width="80%"/>
 
-<img src="https://github.com/user-attachments/assets/2bbdb033-e709-40f1-8326-1634768e5a3c" width="80%"/>
+
 
 ## Updates
 
@@ -17,12 +17,6 @@
 * Use modern Android development practices and recommended architecture guidelines while maintaining code simplicity and modularity
 
 ## Setup
-
-Clone the `main` branch,
-
-```bash
-$> git clone --depth=1 https://github.com/shubham0204/OnDevice-Face-Recognition-Android
-```
 
 Perform a Gradle sync, and run the application.
 

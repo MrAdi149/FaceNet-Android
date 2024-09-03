@@ -1,6 +1,6 @@
 # On-Device Face Recognition In Android 
 
-> A simple Android app that performs on-device face recognition by comparing FaceNet embeddings against a vector database of user-given faces
+> A simple Android app that performs on-device face recognition by comparing FaceNet embeddings against a vector database of user-given face
 
 <img src="https://github.com/user-attachments/assets/3a79776c-e5dd-48c3-8b84-6ec3eaf32d2f" width="80%"/>
 
